@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'vazir';
+    src: url(./Vazir.woff2);
+}
+
+.body {
+    background-color: rgb(28, 28, 28);
+    font-family: 'vazir';
+    color: #0065be;
+}
+
+.allElem {
+    padding: 15px;
+    padding-bottom: 20px;
+    margin: 5px;
+    background-color: #292929;
+    box-shadow: 3px 3px 20px black;
+    border-radius: 15px;
+}
+
+
+.massages {
+    margin-right: 75px;
+}
+
+.button-edit {
+    font-family: 'vazir';
+    width: 150px;
+    height: 40px;
+    background: rgb(0 128 188);
+    border: 0px solid;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.buttonEdit {
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'vazir';
+    src: url(./Vazir.woff2);
+}
+
+html{
+    font-family: 'vazir';
+}
+
+
+body{
+    display: flex;
+    height: 90vh;
+    background: rgb(28,28,28);
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+.styles{
+    padding: 1px 20px;
+    background-color: rgb(20, 167, 235);
+    border-radius: 15px;
+    color: black;
+    margin-bottom: 14px;
+}
+

@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'vazir';
+    src: url(./Vazir.woff2);
+}
+
+html {
+    font-family: 'vazir';
+    font-size: 16px;
+}
+
+.body {
+    background-color: rgb(28, 28, 28);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 144mm;
+}
+
+.all-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 50px;
+    background-color: rgb(20, 167, 235);
+    border-radius: 15px;
+    color: black;
+}
+
+.text {
+    color: white;
+}
+
+.image {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+
+.edit {
+    padding: 0px 25px
+}
+.info {
+    padding: 0px 35px;
+}
+.show-more {
+    padding: 0px 38px;
+}
+
+.fix {
+    text-decoration: none;
+}
+
+#peel{
+    padding: 0px 30px !important;
+}
+
+#nezami{
+    padding: 0px 68px !important;
+}
+
+#tools{
+    padding: 0px 85px !important;
+}
+
+
+#castle{
+    padding: 0px 65px !important;
+}
